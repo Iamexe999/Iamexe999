@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Maxwell
-- 👀 I’m interested in Cybersecurity and Ethical Hacking
-- 🌱 I’m currently learning C++. Java and Golang
-- 💞️ I’m looking to collaborate on any project that could help build my portfolio
-- 📫 How to reach me: whocouldimajin@gmail.com, Discord: themajin, Telegram: Somedilettante
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm pretty sure I can hear colors...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!---
 Iamexe999/Iamexe999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
